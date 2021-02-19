@@ -1,2 +1,0 @@
-# CaliforniaWebSite
-a normal website
